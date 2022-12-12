@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.2)
+project(ht_10.2)
+add_executable(ht_10.2 source.cpp Figure.cpp Figure.h Triangle.cpp Triangle.h RightTriangle.cpp RightTriangle.h IsoscelesTriangle.cpp IsoscelesTriangle.h EquilateralTriangle.cpp EquilateralTriangle.h Quadrangle.cpp Quadrangle.h Parallelogram.cpp Parallelogram.h Rect.cpp Rect.h Square.cpp Square.h Parallelogram.cpp Parallelogram.h Rhombus.cpp Rhombus.h)
